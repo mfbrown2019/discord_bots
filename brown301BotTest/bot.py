@@ -27,6 +27,6 @@ async def on_message(message):
 
 
 
-bot.run('MTE4MDcxOTczMjg0MDczODgyNg.GhAZAL.a3cSW80Y11_HPOt83HgMeuqIFPo5A4XGl_seAE')
+bot.run('')
 
 
